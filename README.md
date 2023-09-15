@@ -1,2 +1,3 @@
 # controle-financeiro
- Sistema simples de controle financeiro doméstico
+ Testando um sistema simples de controle financeiro doméstico em Python. 
+   Se bem-sucedido, terminar o html e css
